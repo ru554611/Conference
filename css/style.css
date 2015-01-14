@@ -10,6 +10,10 @@ html, body{
     width: 100%;
     height: inherit;
     overflow: hidden;
+    background-image: url(../images/Ji9qebSpSlSbnsWRZnDX__MG_9520.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
 }
 
 #leftSide
@@ -32,15 +36,15 @@ html, body{
 }
 #circle 
 {
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     background: #71D7F0;
     -moz-border-radius: 100px;
     -webkit-border-radius: 100px;
     border-radius: 100px;
     z-index: 2;
     position: absolute;
-    left: 44%;
+    left: 46.75%;
     top: 38%;
     cursor: pointer;
 }
