@@ -142,3 +142,11 @@ html, body{
 {
     text-decoration: none;
 }
+
+#nav_wrapper
+{
+    margin: 50px;
+    background-color: white;
+    width: 92%;
+    height: 85%;
+}
