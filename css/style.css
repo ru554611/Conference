@@ -77,7 +77,7 @@ html, body{
     height: 410px;
     overflow-x: auto;
     overflow-y: hidden;
-    background-color: #ffffff;
+    background-color: transparent;
 }
 
 .navigation ul
