@@ -23,19 +23,19 @@ $(document).ready(function(){
                         $("#leftSide")
                             .animate(
                             { left: 0 }, 
-                            { duration: 'slow',
+                            { duration: 1500,
                             easing: 'easeOutBounce'
                             });
                         $("#rightSide")
                             .animate(
                             { right: 0 }, 
-                            { duration: 'slow',
+                            { duration: 1500,
                             easing: 'easeOutBounce'
                             });
                         $("#circle")
                             .animate(
                             { top: x }, 
-                            { duration: 'slow',
+                            { duration: 1500,
                             easing: 'easeOutBounce'
                             });
                     }
