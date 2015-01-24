@@ -1,8 +1,8 @@
 * { margin: 0; padding: 0;}
 
 html, body{
-  height:100%;
-  overflow: hidden;
+  /*height: 100%;*/
+  /*overflow: hidden;*/
 }
 
 .wrapper
@@ -13,7 +13,6 @@ html, body{
     background-image: url(../images/Ji9qebSpSlSbnsWRZnDX__MG_9520.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 100%;
 }
 
 #leftSide
@@ -142,4 +141,30 @@ html, body{
 .navigation ul li a
 {
     text-decoration: none;
+}
+
+.content
+{
+    margin: 0 auto;
+    background-color: transparent;
+    width: 80%;
+    margin-top: 50px;
+}
+.speaker
+{
+    float: left;
+    visibility: hidden;
+}
+.content img
+{
+    height: 250px;
+    width: 180px;
+    float: left;
+    padding-right: 25px;
+    padding-bottom: 25px;
+}
+
+.content p
+{
+    width: 600px;
 }
